@@ -1,19 +1,61 @@
 # projet-scorpion
 
-bienvenue dans le projet scorpion!
-Scorpion est un projet que j'ai dévelopée dans le but de centraliser mes projets en un seul points
-ils contient des projets divers et varies certains plutot basic comme instagram_bot permeettant de recuperer les informations d'un compte instagram as des projets beaucoup plus complexes comme la partie Crypto vous donnant acces a des graphiques détailles ainsi que a un bot pouvant faire des spéculations sur les devises de votre choix .
-Voici un résumé de chaque programme:
-commencons par les plus important:
-Jarvis : votre assistant vocal personalisable il répond a vos demandes et est doter de plein de petit modules 
-Ip (avec iplocator.py et LocateIP.py ) : vous permet de trouver puis localisez des adresses IP ainsi que de les scanné et récuperer les information essentiles du propriétaire 
-instagram_info : (avec instagram_bot.py) permet de retrouver et des recuperer toute les informations d'un compte instagram 
-trad : vous permet de traduire de grande quantiter de texte en un instant avec disponibles des correcteurs d'orthographe 
-pour finir le plus important : 
-crypto : ce programme est designer pour les trader ainsi que pour les personne voulant suivre des aactions il y a : des graphiues des indicateurs de bases ainsi qu'un bot de trading vous permettant de faire les bon choix lors de vos investissement 
+🦂 Projet Scorpion
 
+Bienvenue dans le projet Scorpion !
 
-il y a aussi des mini programmes intégrés:
-password inclut dans main.py permet de generer des mot de passes aléatoires d'une taille choisi par lutilisateur 
-qr code lui aussi inclut dans le main.py permet de creer vos propres qr code et d'y inserer ce que vous voulez 
-pdf extract lui aussi inclut dans le main.py permet d'éxtraire les texte des pdf et les renvoies dans un fichier texte 
+Scorpion est une plateforme que j’ai développée dans le but de centraliser plusieurs de mes projets en un seul environnement.
+Il regroupe des outils variés, allant de petits programmes utilitaires à des systèmes plus complexes orientés analyse de données, automatisation et trading.
+
+Certains modules sont volontairement simples (comme un bot Instagram permettant de récupérer des informations publiques), tandis que d’autres sont plus avancés, notamment la partie Crypto, qui offre des graphiques détaillés ainsi qu’un bot capable d’assister à la prise de décision sur les marchés.
+
+📌 Présentation des principaux modules
+🤖 Jarvis
+
+Un assistant vocal personnalisable capable de répondre à vos demandes grâce à plusieurs modules intégrés.
+
+🌐 IP Tools (iplocator.py, LocateIP.py)
+
+Outils permettant de :
+
+localiser une adresse IP
+
+analyser ses informations
+
+récupérer les données essentielles liées à son propriétaire
+
+📸 Instagram Info (instagram_bot.py)
+
+Permet de récupérer automatiquement les informations publiques d’un compte Instagram.
+
+🌍 Trad
+
+Module de traduction permettant de :
+
+traduire de grands volumes de texte
+
+corriger l’orthographe automatiquement
+
+💹 Crypto
+
+Un programme conçu pour les traders et les passionnés de marchés financiers.
+Il inclut :
+
+des graphiques interactifs
+
+des indicateurs techniques de base
+
+un bot de trading destiné à accompagner la prise de décision.
+
+🧩 Mini-programmes intégrés
+
+Ces outils sont directement accessibles depuis main.py :
+
+Password Generator
+Génère des mots de passe aléatoires selon la longueur choisie par l’utilisateur.
+
+QR Code Generator
+Permet de créer des QR codes personnalisés avec le contenu de votre choix.
+
+PDF Extractor
+Extrait le texte de fichiers PDF et l’exporte automatiquement dans un fichier texte.
