@@ -23,7 +23,6 @@ header = """
         password : génère un mot de passe aléatoire et sécurisé.
         qr code : génère un QR code à partir d'un texte ou d'un lien.
         jarvis : active l'assistant vocal Jarvis pour des recherches.
-        chess : démarre un jeu d'échecs.
         ip : lance iplocator permettant de faire des recherches sur les ip/port ... 
         instagram_info :permet de recuperer des informations sur le compte instagram
         crypto : lance  crypto permettant de recuperer des informations sur les marcher
@@ -119,10 +118,6 @@ while terminal_activer :
     #permet a l'utilisateur de rechercher la liste des commandes disponibles
     elif user_command == "help" :
         display_help()
-
-    #permet a l'utilisateur de lancer un jeu d'echec
-    elif user_command == "chess" :
-        screen = chess.main()
 
     #permet a lutilisateur dutiliser le iplocator
     elif user_command == "ip":
